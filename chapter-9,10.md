@@ -26,7 +26,7 @@ private fun fibonacciTestData() = Stream.of(
 )
 ```
 
-- 앞의 파라미터화되니 테스트를 좀 더 읽기 쉽게 만든 것
+- 앞의 파라미터화된 테스트를 좀 더 읽기 쉽게 만든 것
 
 ## 10장
 
